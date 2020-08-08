@@ -1,4 +1,4 @@
-module k8s.io/repo-infra
+module github.com/rainbowmango/newrepo-infra
 
 go 1.13
 
